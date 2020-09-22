@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [Full Functional E-commerce Website][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel (but dont have time 🤣)
+- ⚡ Fun fact: I love to travel (but don't have time 🤣)
 
 ### Connect with me:
 
